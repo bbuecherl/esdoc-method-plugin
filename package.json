@@ -1,0 +1,23 @@
+{
+  "name": "esdoc-method-plugin",
+  "version": "0.1.0",
+  "description": "ESDoc Plugin to support \"@method\"-tags",
+  "main": "plugin.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bbuecherl/esdoc-method-plugin.git"
+  },
+  "keywords": [
+    "esdoc",
+    "documentation"
+  ],
+  "author": "Bernhard Bücherl <bernhard.buecherl@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bbuecherl/esdoc-method-plugin/issues"
+  },
+  "homepage": "https://github.com/bbuecherl/esdoc-method-plugin#readme"
+}
